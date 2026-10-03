@@ -40,12 +40,12 @@ const PHOTOS = [
   { src:"photo1.jpg.jpg", date:"", caption:"The first time we met" },
   { src:"photo2.jpg.jpg", date:"", caption:"The Plot Twist" },
   { src:"photo3.jpg", date:"", caption:"The reunion, part 1" },
-  { src:"photo4.jpg", date:"", caption:"The 'guy is not that bad' reunion, part 2" },
+  { src:"photo4.jpg.jpg", date:"", caption:"The 'guy is not that bad' reunion, part 2" },
   { src:"photo5.jpg", date:"", caption:"Oh, the trip finally happened" },
   { src:"photo6.jpg", date:"", caption:"'Akele akele bhi khichwalo, kya pta post na kr pao'" },
   { src:"photo7.jpg", date:"", caption:"The Golf Day" },
   { src:"photo8.jpg", date:"", caption:"The F1 Night" },
-  { src:"photo9.jpg", date:"", caption:"The Mini Goal Ride" },
+  { src:"photo9.jpg.jpg", date:"", caption:"The Mini Goal Ride" },
   { src:"photo11.jpg", date:"", caption:"The Clarks In Day" }
 ];
 const SECONDS_PER_PHOTO = 5;
