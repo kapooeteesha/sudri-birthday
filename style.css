@@ -83,3 +83,7 @@ button{font-family:inherit;cursor:pointer}
   pointer-events:none;animation:drift 7s infinite ease-in-out}
 @keyframes drift{0%,100%{transform:translate(0,0);opacity:.2}50%{transform:translate(30px,-40px);opacity:1}}
 @media (prefers-reduced-motion:reduce){*{animation-duration:.01s!important}}
+/* Photo reel fix: caption below photo */
+.reel{flex-direction:column;justify-content:center;padding:56px 18px 24px}
+#photo{max-height:58vh;max-height:58dvh;width:auto;max-width:100%;object-fit:contain;border-bottom-width:10px}
+.cap{position:static;margin-top:22px;padding:0 12px}
