@@ -6,44 +6,52 @@ const FINAL_MESSAGE = "Happy 29th, Sudri. 💚"; // last screen text
 
 // 29 reasons. Shown in this order. Replace the placeholders with your own!
 const REASONS = [
-  "You laugh at your own jokes before the punchline, and it's the best part.",
-  "You make ordinary days feel like they have a plot.",
-  "Your 'two minutes' is never two minutes, and I'd still wait.",
-  "[Inside joke #1 goes here]",
-  "You're soft with people when nobody is watching.",
-  "You remember the tiny things I say.",
-  "[Inside joke #2 goes here]",
-  "You're annoyingly good at making me smile when I'm cross.",
-  "Your voice notes. All of them. Even the long ones.",
-  "You make food plans sound like adventures.",
-  "[Inside joke #3 goes here]",
-  "You're calm when I'm not.",
-  "You care without making a big show of it.",
-  "The way you say my name.",
-  "[A memory of the first time we talked]",
+  "You are genuinely good at heart. Not for show, just who you are.",
+  "You work so hard, and you never make a big deal about it.",
+  "You look like white chocolate. Sweet, and I'm not sorry for saying it.",
   "You're brave in ways you don't notice.",
-  "You make me feel like I can be silly.",
-  "[Inside joke #4 goes here]",
-  "You're a great listener (even when you pretend not to be).",
-  "You make home feel like a person.",
-  "Your terrible dance moves. I love them.",
-  "[Something you always say]",
-  "You show up. Every time.",
+  "You try to understand me every single time, even when I'm being difficult.",
+   "'Kuch bhi nahi hua.' You say it every time I slap or bite you, and I love it every time."
+  "You support my career like it's your own.",
+  "You put everyone above yourself.",
+  "You're the friend people can count on. You will always be there to help.",
+  "You're 5 years older than me, but talking to you never feels like a gap.",
+  "You have your own way of making effort, and I notice and value every bit of it.",
+  "You care so much, even if your Fortuner gets more attention than me. Huh. 😌",
+  "Your laugh: eyes get small, mouth opens up, cheeks like golgappe. I love watching it.",
+  "Your singing lifts my mood every single time.",
+  "Your 'two minutes' is never two minutes, and I'd still wait.",
+  "You make me laugh even when I'm trying to stay annoyed.",
+  "You're patient with me more than I deserve.",
   "You're the first person I want to tell things to.",
-  "[Inside joke #5 goes here]",
-  "You make me want to be kinder.",
+  "You're soft with people when nobody is watching",
+  "You say 'kuch bhi nahi hua' and somehow I'm the one who feels looked after.",
+  "You're calm when I'm not.",
+  "You listen, even when I ramble.",
   "Your smile, obviously.",
-  "Because being around you feels easy and exciting at once.",
+  "With you, I feel safe being completely myself.",
+  "You make me want to be a better person.",
+  "You're a great listener (even when you pretend not to be).",
+  "You never make anyone feel small, and I love that about you.",
+  "Because everything feels easy and exciting at the same time with you.",
   "Because it's you, Sudri. Just you."
 ];
 
 // Photo reel: file in /photos, date, caption. Add or remove lines freely.
-const PHOTOS = [
-  { src:"photos/photo1.jpg", date:"Add a date", caption:"Add a caption for photo 1" },
-  { src:"photos/photo2.jpg", date:"Add a date", caption:"Add a caption for photo 2" },
-  { src:"photos/photo3.jpg", date:"Add a date", caption:"Add a caption for photo 3" },
-  { src:"photos/photo4.jpg", date:"Add a date", caption:"Add a caption for photo 4" },
-  { src:"photos/photo5.jpg", date:"Add a date", caption:"Add a caption for photo 5" }
+cconst PHOTOS = [
+  { src:"photos/phoot1.jpg", date:"", caption:"The first time we went" },
+  { src:"photos/phoot2.jpg", date:"", caption:"The Plot Twist" },
+  { src:"photos/phoot3.jpg", date:"", caption:"The Theo reunion, part 1" },
+  { src:"photos/phoot4.jpg", date:"", caption:"The 'guy is not that bad' reunion, part 2" },
+  { src:"photos/phoot5.jpg", date:"", caption:"Oh, the trip finally happened" },
+  { src:"photos/phoot6.jpg", date:"", caption:"'Akele akele bhi khichwalo, kya pta post na kr pao'" },
+  { src:"photos/phoot7.jpg", date:"", caption:"The Golf Day" },
+  { src:"photos/phoot8.jpg", date:"", caption:"The F1 Night" },
+  { src:"photos/phoot9.jpg", date:"", caption:"The Mini Goal Ride" },
+  { src:"photos/phoot10.jpg", date:"", caption:"The Cartier Kangna Promise" },
+  { src:"photos/phoot11.jpg", date:"", caption:"The Clarks In Day" },
+  { src:"photos/phoot12.jpg", date:"", caption:"The One Night Stand" },
+  { src:"photos/phoot13.jpg", date:"", caption:"The 2 hour airport ride" }
 ];
 const SECONDS_PER_PHOTO = 5;
 /* ===================== END OF EDIT AREA ===================== */
