@@ -37,8 +37,8 @@ const REASONS = [
 ];
 
 const PHOTOS = [
-  { src:"photo1.jpg", date:"", caption:"The first time we met" },
-  { src:"photo2.jpg", date:"", caption:"The Plot Twist" },
+  { src:"photo1.jpg.jpeg", date:"", caption:"The first time we met" },
+  { src:"photo2.jpg.jpeg", date:"", caption:"The Plot Twist" },
   { src:"photo3.jpg", date:"", caption:"The reunion, part 1" },
   { src:"photo4.jpg", date:"", caption:"The 'guy is not that bad' reunion, part 2" },
   { src:"photo5.jpg", date:"", caption:"Oh, the trip finally happened" },
