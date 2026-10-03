@@ -39,17 +39,15 @@ const REASONS = [
 const PHOTOS = [
   { src:"photos/phoot1.jpg", date:"", caption:"The first time we met" },
   { src:"photos/phoot2.jpg", date:"", caption:"The Plot Twist" },
-  { src:"photos/phoot3.jpg", date:"", caption:"The Theo reunion, part 1" },
+  { src:"photos/phoot3.jpg", date:"", caption:"The reunion, part 1" },
   { src:"photos/phoot4.jpg", date:"", caption:"The 'guy is not that bad' reunion, part 2" },
   { src:"photos/phoot5.jpg", date:"", caption:"Oh, the trip finally happened" },
   { src:"photos/phoot6.jpg", date:"", caption:"'Akele akele bhi khichwalo, kya pta post na kr pao'" },
   { src:"photos/phoot7.jpg", date:"", caption:"The Golf Day" },
   { src:"photos/phoot8.jpg", date:"", caption:"The F1 Night" },
   { src:"photos/phoot9.jpg", date:"", caption:"The Mini Goal Ride" },
-  { src:"photos/phoot10.jpg", date:"", caption:"The Cartier Kangna Promise" },
   { src:"photos/phoot11.jpg", date:"", caption:"The Clarks In Day" },
-  { src:"photos/phoot12.jpg", date:"", caption:"The One Night Stand" },
-  { src:"photos/phoot13.jpg", date:"", caption:"The 2 hour airport ride" }
+  { src:"photos/phoot12.jpg", date:"", caption:"The One Night Stand" }
 ];
 const SECONDS_PER_PHOTO = 5;
 /* ===================== END OF EDIT AREA ===================== */
