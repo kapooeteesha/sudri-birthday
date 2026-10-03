@@ -1,17 +1,16 @@
 /* =====================================================
    ✏️ EDIT HERE — everything personal lives in this block
    ===================================================== */
-const NAME = "Sudri";                       // shown at the end
-const FINAL_MESSAGE = "Happy 29th, Sudri. 💚"; // last screen text
+const NAME = "Sudri";
+const FINAL_MESSAGE = "Happy 29th, Sudri. 💚";
 
-// 29 reasons. Shown in this order. Replace the placeholders with your own!
 const REASONS = [
   "You are genuinely good at heart. Not for show, just who you are.",
   "You work so hard, and you never make a big deal about it.",
   "You look like white chocolate. Sweet, and I'm not sorry for saying it.",
   "You're brave in ways you don't notice.",
   "You try to understand me every single time, even when I'm being difficult.",
-   "'Kuch bhi nahi hua.' You say it every time I slap or bite you, and I love it every time."
+  "'Kuch bhi nahi hua.' You say it every time I slap or bite you, and I love it every time.",
   "You support my career like it's your own.",
   "You put everyone above yourself.",
   "You're the friend people can count on. You will always be there to help.",
@@ -24,7 +23,7 @@ const REASONS = [
   "You make me laugh even when I'm trying to stay annoyed.",
   "You're patient with me more than I deserve.",
   "You're the first person I want to tell things to.",
-  "You're soft with people when nobody is watching",
+  "You're soft with people when nobody is watching.",
   "You say 'kuch bhi nahi hua' and somehow I'm the one who feels looked after.",
   "You're calm when I'm not.",
   "You listen, even when I ramble.",
@@ -37,9 +36,8 @@ const REASONS = [
   "Because it's you, Sudri. Just you."
 ];
 
-// Photo reel: file in /photos, date, caption. Add or remove lines freely.
-cconst PHOTOS = [
-  { src:"photos/phoot1.jpg", date:"", caption:"The first time we went" },
+const PHOTOS = [
+  { src:"photos/phoot1.jpg", date:"", caption:"The first time we met" },
   { src:"photos/phoot2.jpg", date:"", caption:"The Plot Twist" },
   { src:"photos/phoot3.jpg", date:"", caption:"The Theo reunion, part 1" },
   { src:"photos/phoot4.jpg", date:"", caption:"The 'guy is not that bad' reunion, part 2" },
