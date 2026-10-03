@@ -37,17 +37,16 @@ const REASONS = [
 ];
 
 const PHOTOS = [
-  { src:"photos/photo1.jpg", date:"", caption:"The first time we met" },
-  { src:"photos/photo2.jpg", date:"", caption:"The Plot Twist" },
-  { src:"photos/photo3.jpg", date:"", caption:"The reunion, part 1" },
-  { src:"photos/photo4.jpg", date:"", caption:"The 'guy is not that bad' reunion, part 2" },
-  { src:"photos/photo5.jpg", date:"", caption:"Oh, the trip finally happened" },
-  { src:"photos/photo6.jpg", date:"", caption:"'Akele akele bhi khichwalo, kya pta post na kr pao'" },
-  { src:"photos/photot7.jpg", date:"", caption:"The Golf Day" },
-  { src:"photos/photo8.jpg", date:"", caption:"The F1 Night" },
-  { src:"photos/photo9.jpg", date:"", caption:"The Mini Goal Ride" },
-  { src:"photos/photo11.jpg", date:"", caption:"The Clarks In Day" },
-  { src:"photos/photo12.jpg", date:"", caption:"The One Night Stand" }
+  { src:"photo1.jpg", date:"", caption:"The first time we met" },
+  { src:"photo2.jpg", date:"", caption:"The Plot Twist" },
+  { src:"photo3.jpg", date:"", caption:"The reunion, part 1" },
+  { src:"photo4.jpg", date:"", caption:"The 'guy is not that bad' reunion, part 2" },
+  { src:"photo5.jpg", date:"", caption:"Oh, the trip finally happened" },
+  { src:"photo6.jpg", date:"", caption:"'Akele akele bhi khichwalo, kya pta post na kr pao'" },
+  { src:"photo7.jpg", date:"", caption:"The Golf Day" },
+  { src:"photo8.jpg", date:"", caption:"The F1 Night" },
+  { src:"photo9.jpg", date:"", caption:"The Mini Goal Ride" },
+  { src:"photo11.jpg", date:"", caption:"The Clarks In Day" }
 ];
 const SECONDS_PER_PHOTO = 5;
 /* ===================== END OF EDIT AREA ===================== */
